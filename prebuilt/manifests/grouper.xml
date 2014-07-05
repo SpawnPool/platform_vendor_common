@@ -1,5 +1,5 @@
  <!-- Grouper -->
 
   <project path="device/asus/grouper" name="platform_device_asus_grouper" group="pdk" remote="ok" revision="kk-4.4" />
-  <project path="kernel/asus/grouper" name="android_kernel_grouper" remote="ok" revision="kk-4.4" />
+  <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="ok" revision="kk-4.4" />
   <project path="vendor/asus" name="platform_vendor_asus" remote="ok" revision="kk-4.4" />
