@@ -1,16 +1,29 @@
-These are stubbie manifest fragments.  They are used by the repo system to
-manifest the build.  
+   ___     _ __                             ___                     _             
+  / __|   | '_ \  __ _   __ __ __ _ _      | _ \   ___     ___     | |      o O O 
+  \__ \   | .__/ / _` |  \ V  V /| ' \     |  _/  / _ \   / _ \    | |     o      
+  |___/   |_|__  \__,_|   \_/\_/ |_||_|   _|_|_   \___/   \___/   _|_|_   TS__[O] 
+_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """ |_|"""""|_|"""""|_|"""""| {======| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'./o--000' 
 
-oct.xml represents the core OctOs repos
-cm.xml is for CM-based repos
+This section is the public repository for all Offical Build configuration manifests.
+
+The main "base" repos (access via the jet/repo.sh base command) is oct.xml 
+and cm.xml.  
+
+Builds are outlined by device or device-tree.  Calling these repos will add that
+device/device-tree calls to the sync manifests.
+
+These device/tree segments are stubbie manifest fragments.
 
 Others will be added in without header or footer tag! (No <manifest> or <xml> tags!)
 
 These fragments are auto-enumerated and can be called by filename as arguments.
 
-sam.xml = sam
-nex.xml = nex
-
-etc.  
+Every device tree call includes the base options.
+/********************************************************************************
+/   Current Device Tree:
+/   sam.xml = Samsung Device Tree             nex.xml = Nexus Device Tree
+/   flo.xml = Nexus7 (2013)                   grouper.xml = Nexux7 (2012)
+/
 
 Be aware!  This will only give you what you ASK for as far as device tree, and nothing else!
