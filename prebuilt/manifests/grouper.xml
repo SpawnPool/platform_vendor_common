@@ -1,6 +1,6 @@
  <!-- Grouper -->
   <remote name="du"
-           fetch="https://github.com/DirtyUnicorns-KitkKat/"
+           fetch="https://github.com/DirtyUnicorns-KitKat/"
            sync-c="true"
            sync-j="12" />
 
