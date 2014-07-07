@@ -1,10 +1,5 @@
   <!-- Samsung Devices -->           
-  <remote name="tm"
-           fetch="https://github.com/TheMuppets/"
-           sync-c="true"
-           sync-j="12" />
-           
-           
+
   <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />
   <project path="device/samsung/d2lte" name="platform_device_samsung_d2lte" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/hlte" name="platform_device_samsung_hlte" groups="pdk" remote="sp" revision="kk-4.4" />
