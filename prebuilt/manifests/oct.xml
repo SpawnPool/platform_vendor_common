@@ -6,6 +6,10 @@
            sync-c="true"
            sync-j="12" />
 
+  <remote name="tm"
+           fetch="https://github.com/TheMuppets/"
+           sync-c="true"
+           sync-j="12" />   
 
   <project path="build" name="platform_build" remote="ok" revision="kk-4.4" >
     <copyfile src="core/root.mk" dest="Makefile" />
