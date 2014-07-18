@@ -11,7 +11,7 @@
            sync-c="true"
            sync-j="12" />   
 
-  <project path="build" name="platform_build" remote="ok" revision="kk-4.4" >
+  <project path="build" name="platform_build" remote="ok" revision="test" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
