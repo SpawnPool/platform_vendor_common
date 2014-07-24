@@ -11,9 +11,6 @@
            sync-c="true"
            sync-j="12" />   
 
-  <project path="build" name="platform_build" remote="ok" revision="test" >
-    <copyfile src="core/root.mk" dest="Makefile" />
-  </project>
   
   <remove-project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="ok" revision="kk-4.4" />
