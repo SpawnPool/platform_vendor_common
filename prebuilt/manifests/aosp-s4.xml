@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-  <remote name="sp"
-           fetch="git://github.com/SpawnPool/"
-           sync-c="true"
-           sync-j="12" />
  
 
   <project path="frameworks/base" name="platform_frameworks_base" remote="sp" revision="kk-4.4" />
