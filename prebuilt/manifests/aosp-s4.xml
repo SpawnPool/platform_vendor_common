@@ -20,4 +20,3 @@
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-4.4.3_r1.1" />
   <project path="packages/apps/Settings" name="platform_packages_apps_settings" remote="sp" revision="kk-4.4" />
   <project path="packages/services/Telephony" name="platform_packages_services_telephony" remote="sp" revision="kk-4.4" />
-  </manifest>
