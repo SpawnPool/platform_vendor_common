@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
   <!-- Samsung Devices -->           
 
   <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />
@@ -13,4 +15,4 @@
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="sp" revision="kk-4.4" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
-  
+</manifest>
