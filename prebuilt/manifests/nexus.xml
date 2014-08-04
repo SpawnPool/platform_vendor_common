@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/lge/hammerhead" name="platform_device_lge_hammerhead" groups="pdk" remote="ok" revision="kk-4.4" />
+  <project path="kernel/lge/hammerhead" name="platform_kernel_lge_hammerhead" remote="ok" revision="kk-4.4" />
+  <project path="device/asus/grouper" name="platform_device_asus_grouper" group="pdk" remote="ok" revision="kk-4.4" />
+  <project path="kernel/asus/grouper" name="platform_kernel_asus_grouper" remote="ok" revision="kk-4.4" />
+  <project path="vendor/lge" name="platform_vendor_lge" remote="ok" revision="kk-4.4" />
+  <project path="vendor/asus" name="platform_vendor_asus" remote="ok" revision="kk-4.4" />
+</manifest>

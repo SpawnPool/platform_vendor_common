@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
   <!-- Samsung Devices -->           
 
   <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />
   <project path="device/samsung/d2lte" name="platform_device_samsung_d2lte" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/hlte" name="platform_device_samsung_hlte" groups="pdk" remote="sp" revision="kk-4.4" />
+  <project path="device/samsung/msm8974-common" name="platform_device_samsung_msm8974-common" remote="ok" revision="cm-11.0" />
   <project path="device/samsung/toro" name="platform_device_samsung_toro" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/tuna" name="platform_device_samsung_tuna" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/qcom/common" name="platform_device_qcom_common" groups="pdk" remote="sp" revision="kk-4.4" />
@@ -13,4 +16,4 @@
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="sp" revision="kk-4.4" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
-  
+</manifest>
