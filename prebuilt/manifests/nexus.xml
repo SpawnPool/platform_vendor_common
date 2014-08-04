@@ -4,6 +4,8 @@
   <project path="kernel/lge/hammerhead" name="platform_kernel_lge_hammerhead" remote="ok" revision="kk-4.4" />
   <project path="device/asus/grouper" name="platform_device_asus_grouper" group="pdk" remote="ok" revision="kk-4.4" />
   <project path="kernel/asus/grouper" name="platform_kernel_asus_grouper" remote="ok" revision="kk-4.4" />
+  <project path="device/asus/flo" name="android_device_asus_flo" group="pdk" remote="ok" revision="kk-4.4" />
+  <project path="kernel/asus/flo" name="platform_kernel_asus_flo" remote="ok" revision="kk-4.4" />
   <project path="vendor/lge" name="platform_vendor_lge" remote="ok" revision="kk-4.4" />
   <project path="vendor/asus" name="platform_vendor_asus" remote="ok" revision="kk-4.4" />
 </manifest>
