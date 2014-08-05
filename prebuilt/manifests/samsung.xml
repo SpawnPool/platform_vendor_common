@@ -5,6 +5,7 @@
   <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />
   <project path="device/samsung/d2lte" name="platform_device_samsung_d2lte" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/hlte" name="platform_device_samsung_hlte" groups="pdk" remote="sp" revision="kk-4.4" />
+  <project path="device/samsung/serranolteusc" name="platform_device_samsung_serranolteusc" groups="pdk" remote="ok" revision="kk-4.4" />
   <project path="device/samsung/serranoltespr" name="platform_device_samsung_serranoltespr" groups="pdk" remote="ok" revision="kk-4.4" />
   <project path="device/samsung/serranoltexx" name="platform_device_samsung_serranoltexx" groups="pdk" remote="ok" revision="kk-4.4" />
   <project path="device/samsung/toro" name="platform_device_samsung_toro" groups="pdk" remote="sp" revision="kk-4.4" />
