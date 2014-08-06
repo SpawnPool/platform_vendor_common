@@ -21,7 +21,7 @@
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/msm8930-common" name="platform_kernel_samsung_msm8930-common" remote="ok" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="sp" revision="kk-4.4" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-11.0" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cj" revision="cm-11.0" />
   <project path="hardware/samsung" name="platform_hardware_samsung" remote="ok" revision="kk-4.4" />
   <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="ok" revision="cm-11.0" />
 </manifest>
