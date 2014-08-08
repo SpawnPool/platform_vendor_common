@@ -10,6 +10,8 @@
   <project path="device/samsung/serranoltexx" name="platform_device_samsung_serranoltexx" groups="pdk" remote="ok" revision="kk-4.4" />
   <project path="device/samsung/toro" name="platform_device_samsung_toro" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/tuna" name="platform_device_samsung_tuna" groups="pdk" remote="sp" revision="kk-4.4" />
+  <project path="device/samsung/p4wifi" name="platform_device_samsung_p4wifi" groups="pdk" remote="gr" revision="kk-4.4" />
+  <project path="device/samsung/p4-common" name="platform_device_samsung_p4-common" groups="pdk" remote="gr" revision="kk-4.4" />
   <project path="device/samsung/msm8974-common" name="platform_device_samsung_msm8974-common" remote="ok" revision="cm-11.0" />
   <project path="device/qcom/common" name="platform_device_qcom_common" groups="pdk" remote="sp" revision="kk-4.4" />
   <project path="device/samsung/msm8960-common" name="platform_device_samsung_msm8960-common" groups="pdk" remote="sp" revision="kk-444" />
@@ -21,6 +23,7 @@
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/msm8930-common" name="platform_kernel_samsung_msm8930-common" remote="ok" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="sp" revision="kk-4.4" />
+  <project path="kernel/samsung/p4" name="platform_kernel_samsung_p4" remote="gr" revision="kk-4.4" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cj" revision="cm-11.0" />
   <project path="hardware/samsung" name="platform_hardware_samsung" remote="ok" revision="kk-4.4" />
   <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="ok" revision="cm-11.0" />
