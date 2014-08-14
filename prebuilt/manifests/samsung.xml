@@ -9,7 +9,7 @@
   <!-- Note 3 -->
   <project path="device/samsung/hlte" name="platform_device_samsung_hlte" groups="pdk" remote="sp" revision="kk-4.4" />
   <!-- Note 2 -->
-  <project path="device/samsung/t0lte" name="platform_device_samsung_t0lte" groups="pdk" remote="sp" revision="kk-4.4" />
+  <project path="device/samsung/t0lte" name="platform_device_samsung_t0lte" groups="pdk" remote="ok" revision="kk-4.4" />
   <!-- S4 Mini -->
   <project path="device/samsung/serranolteusc" name="platform_device_samsung_serranolteusc" groups="pdk" remote="ok" revision="kk-4.4" />
   <project path="device/samsung/serranoltespr" name="platform_device_samsung_serranoltespr" groups="pdk" remote="ok" revision="kk-4.4" />
@@ -25,7 +25,7 @@
   <project path="kernel/samsung/jf" name="platform_kernel_samsung_jf" remote="sp" revision="kk-4.4_new" />
   <project path="kernel/samsung/d2" name="platform_kernel_samsung_d2" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
-  <project path="kernel/samsung/smdk4412" name="platform_kernel_samsung_smdk4412" remote="sp" revision="kk-4.4" />
+  <project path="kernel/samsung/smdk4412" name="platform_kernel_samsung_smdk4412" remote="ok" revision="kk-4.4" />
   <project path="kernel/samsung/msm8930-common" name="platform_kernel_samsung_msm8930-common" remote="ok" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/p4" name="platform_kernel_samsung_p4" remote="gr" revision="kk-4.4" />
