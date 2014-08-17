@@ -10,7 +10,7 @@
   <project path="device/lge/mako" name="platform_device_lge_mako" group="pdk" remote="ok" revision="kk-4.4" />
   <project path="kernel/lge/mako" name="platform_kernel_lge_mako" remote="ok" revision="kk-4.4" />
 
-  <project path="device/asus/flo" name="android_device_asus_flo" group="pdk" remote="ok" revision="kk-4.4"/>
+  <project path="device/asus/flo" name="platform_device_asus_flo" group="pdk" remote="ok" revision="kk-4.4"/>
   <project path="kernel/asus/flo" name="platform_kernel_asus_flo" remote="ok" revision="kk-4.4" />
   <project path="vendor/asus/flo" name="platform_vendor_asus_flo" remote="ok" revision="kk-4.4" />
   
