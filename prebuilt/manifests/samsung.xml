@@ -3,7 +3,7 @@
   <!-- Samsung Devices -->           
 
   <!-- Galaxy s4 --> 
-  <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />           
+  <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="ok" revision="kk-4.4" />           
   <!-- Galaxy s3 -->
   <project path="device/samsung/d2lte" name="platform_device_samsung_d2lte" groups="pdk" remote="sp" revision="kk-4.4" />           
   <!-- Note 3 -->
