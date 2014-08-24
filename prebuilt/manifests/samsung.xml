@@ -3,7 +3,7 @@
   <!-- Samsung Devices -->           
 
   <!-- Galaxy s4 --> 
-  <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="sp" revision="kk-444" />           
+  <project path="device/samsung/jflte" name="platform_device_samsung_jflte" groups="pdk" remote="ok" revision="kk-4.4" />           
   <!-- Galaxy s3 -->
   <project path="device/samsung/d2lte" name="platform_device_samsung_d2lte" groups="pdk" remote="sp" revision="kk-4.4" />           
   <!-- Note 3 -->
@@ -22,7 +22,7 @@
   <!-- Galaxy Tab 10.1 -->
   <project path="device/samsung/p4wifi" name="platform_device_samsung_p4wifi" groups="pdk" remote="gr" revision="kk-4.4" />
   <!-- Kernels --> 
-  <project path="kernel/samsung/jf" name="platform_kernel_samsung_jf" remote="sp" revision="kk-4.4_new" />
+  <project path="kernel/samsung/jf" name="platform_kernel_samsung_jf" remote="ok" revision="kk-4.4" />
   <project path="kernel/samsung/d2" name="platform_kernel_samsung_d2" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="sp" revision="kk-4.4" />
   <project path="kernel/samsung/smdk4412" name="platform_kernel_samsung_smdk4412" remote="ok" revision="kk-4.4" />
