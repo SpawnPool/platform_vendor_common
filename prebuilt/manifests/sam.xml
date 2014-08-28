@@ -12,5 +12,5 @@
   <project path="kernel/samsung/d2" name="platform_kernel_samsung_d2" remote="ok" revision="kk-4.4" />
   <project path="kernel/samsung/hlte" name="platform_kernel_samsung_hlte" remote="ok" revision="kk-4.4" />
   <project path="kernel/samsung/tuna" name="platform_kernel_samsung_tuna" remote="ok" revision="kk-4.4" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="kk-4.4" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="pr" revision="kk-4.4" />
   
