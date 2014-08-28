@@ -40,7 +40,7 @@
   <project path="device/samsung/msm8930-common" name="platform_device_samsung_msm8930-common" groups="pdk" remote="ok" revision="cm-11.0" />
   <project path="device/samsung/serrano-common" name="platform_device_samsung_serrano-common" groups="pdk" remote="ok" revision="cm-11.0" />
   <project path="device/samsung/qcom-common" name="platform_device_samsung_qcom-common" groups="pdk" remote="sp" revision="kk-4.4" />
-  <project path="vendor/samsung" name="vendor_samsung" remote="tm" revision="kk-4.4" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="kk-4.4" />
   <project path="hardware/samsung" name="platform_hardware_samsung" remote="ok" revision="kk-4.4" />
   <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="ok" revision="cm-11.0" />
 </manifest>
