@@ -42,6 +42,8 @@
   <project path="device/samsung/qcom-common" name="platform_device_samsung_qcom-common" groups="pdk" remote="sp" revision="kk-4.4" />
 <!--  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="pr" revision="kk-4.4" /> -->
   <project path="vendor/samsung/toro" name="platform_vendor_toro" remote="pr" revision="master" />
+  <project path="vendor/samsung/jflte" name="platform_vendor_jf" remote="pr" revision="master" />
+  <project path="vendor/samsung/d2lte" name="platform_vendor_d2" remote="pr" revision="master" />
   <project path="hardware/samsung" name="platform_hardware_samsung" remote="ok" revision="kk-4.4" />
   <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="ok" revision="cm-11.0" />
 </manifest>
