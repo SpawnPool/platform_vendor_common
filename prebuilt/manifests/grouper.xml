@@ -1,9 +1,9 @@
  <!-- Grouper -->
-  <remote name="du"
-           fetch="https://github.com/DirtyUnicorns-KitKat/"
+  <remote name="pr"
+           fetch="https://github.com/prop-repos"
            sync-c="true"
            sync-j="12" />
 
   <project path="device/asus/grouper" name="platform_device_asus_grouper" group="pdk" remote="ok" revision="master" />
   <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="ok" revision="kk-4.4" />
-  <project path="vendor/asus" name="proprietary_vendor_asus" remote="du" revision="du44" />
+  <project path="vendor/asus/grouper" name="platform_vendor_grouper" remote="pr" revision="master" />
