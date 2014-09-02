@@ -1,6 +1,6 @@
   <!-- Flo -->
-  <remote name="Omni"
-           fetch="https://github.com/omnirom/"
+  <remote name="pr"
+           fetch="https://github.com/prop-repos/"
            sync-c="true"
            sync-j="12" />
 
@@ -17,4 +17,4 @@
   <project path="kernel/asus/flo" name="platform_kernel_asus_flo" remote="ok" revision="kk-4.4" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" groups="qcom" remote="Omni" revision="android-4.4" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" remote="Omni" revision="android-4.4" />
-  <project path="vendor/asus" name="android_vendor_asus" remote="TJB" revision="linaro_android_4.4.3" />
+  <project path="vendor/asus/flo" name="platform_vendor_flo" remote="pr" revision="master" />
