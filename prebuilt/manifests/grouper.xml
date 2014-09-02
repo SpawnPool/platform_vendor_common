@@ -1,6 +1,6 @@
  <!-- Grouper -->
   <remote name="pr"
-           fetch="https://github.com/prop-repos"
+           fetch="https://github.com/prop-repos/"
            sync-c="true"
            sync-j="12" />
 
